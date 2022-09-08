@@ -1,2 +1,2 @@
 cassandra-driver==3.25.0
-pandas==20.0.0
+pandas==1.4.4
